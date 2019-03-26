@@ -118,10 +118,10 @@ rbound_w = -180.0 #-140.0
 rbound_e = 180.0 #-10.0
 
 #INNER DOMAIN: only retain cyclones that pass within this domain
-ibound_s = 60.0 #35.0
-ibound_n = 90.0 #45.0
-ibound_w = -180.0 #-80.0
-ibound_e = 180.0 #-60.0
+#ibound_s = 60.0 #35.0
+#ibound_n = 90.0 #45.0
+#ibound_w = -180.0 #-80.0
+#ibound_e = 180.0 #-60.0
 
 domain = 6.0
 if leadtime == 2: domain = 7.0
