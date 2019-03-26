@@ -2,4 +2,4 @@
 Arctic Cyclone scripts
 
 
-This is a test file.
+This is the read me file.
